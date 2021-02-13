@@ -1,0 +1,53 @@
+html,
+body {
+  margin: 0%;
+  height: 100%;
+  width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#header_home {
+  display: inline-block;
+  margin-left: 30%;
+  margin-top: 1%;
+}
+#header_logout {
+  display: inline-block;
+  margin-left: 5%;
+  margin-top: 1%;
+}
+.main_body {
+  height: 100%;
+  width: 76%;
+  float: left;
+  border: 1px solid black;
+}
+.right_side {
+  float: left;
+}
+#main_name {
+  display: inline-block;
+  margin-left: 5%;
+  margin-top: 5%;
+}
+table,
+tr,
+td {
+  border-collapse: collapse;
+  border: 1px solid black;
+  padding: 10px;
+  width: 50%;
+}
+table {
+  margin-left: 5%;
+}
+td {
+  width: 50%;
+}
+#last_login {
+  display: inline-block;
+  margin-top: 30%;
+  margin-left: 80%;
+}
+.left_account {
+  padding-left: 10px;
+}
